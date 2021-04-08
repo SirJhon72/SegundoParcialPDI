@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="255" pref="255" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="471" pref="471" max="-2" attributes="0"/>
+              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="43" pref="43" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="LienzoOriginal" min="-2" pref="462" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="155" pref="155" max="-2" attributes="0"/>
+                      <Component id="LoadImage" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="74" pref="74" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Component id="pos_1" min="-2" pref="73" max="-2" attributes="0"/>
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Component id="pos_2" min="-2" pref="73" max="-2" attributes="0"/>
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Component id="pos_3" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="ZeroDegPrimerOrder" min="-2" pref="75" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                          <Component id="pos_7" max="32767" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                                          <Component id="pos_4" min="-2" pref="74" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="pos_8" max="32767" attributes="0"/>
+                                  <Component id="pos_5" max="32767" attributes="0"/>
+                                  <Component id="Deg180PrimerOrden" alignment="1" pref="74" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="pos_6" max="32767" attributes="0"/>
+                                  <Component id="pos_9" max="32767" attributes="0"/>
+                                  <Component id="Deg315PrimerOrden" alignment="0" pref="80" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                              <Component id="pos_10" min="-2" pref="73" max="-2" attributes="0"/>
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Component id="pos_11" min="-2" pref="73" max="-2" attributes="0"/>
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Component id="pos_12" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="ZeroDegSegundoOrden" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="pos_16" alignment="1" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                      <Component id="pos_13" min="-2" pref="74" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="pos_17" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="pos_14" alignment="0" pref="74" max="32767" attributes="0"/>
+                                  <Component id="Deg180SegundoOrden" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="pos_15" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="pos_18" alignment="0" pref="80" max="32767" attributes="0"/>
+                                  <Component id="Deg315SegundoOrden" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="0" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="235" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="LienzoRelieve1" alignment="0" min="-2" pref="474" max="-2" attributes="0"/>
+                          <Component id="LienzoRelieve2" min="-2" pref="474" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="15" pref="15" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="LienzoOriginal" min="-2" pref="306" max="-2" attributes="0"/>
+                      <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                      <Component id="LoadImage" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="pos_1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="pos_4" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_5" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_6" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="pos_8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="pos_10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_12" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="pos_13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_14" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_15" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="pos_17" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_16" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_18" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ZeroDegSegundoOrden" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Deg180SegundoOrden" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Deg315SegundoOrden" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Deg315PrimerOrden" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Deg180PrimerOrden" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ZeroDegPrimerOrder" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="LienzoRelieve1" min="-2" pref="260" max="-2" attributes="0"/>
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                      <Component id="LienzoRelieve2" min="-2" pref="279" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="LienzoOriginal">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Original"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="LoadImage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cargar Imagen"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LoadImageActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LienzoRelieve1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="LienzoRelieve2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Relieve 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Relieve 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Matriz de 1er Orden"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_7">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_8">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_9">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_10">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_11">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_12">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_13">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_14">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_15">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_16">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_17">
+    </Component>
+    <Component class="javax.swing.JTextField" name="pos_18">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Matriz de 2do Orden"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ZeroDegPrimerOrder">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0&#xb0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ZeroDegPrimerOrderActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Deg180PrimerOrden">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="180&#xb0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Deg180PrimerOrdenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Deg315PrimerOrden">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="315&#xb0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Deg315PrimerOrdenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="ZeroDegSegundoOrden">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0&#xb0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ZeroDegSegundoOrdenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Deg180SegundoOrden">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="180&#xb0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Deg180SegundoOrdenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Deg315SegundoOrden">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="315&#xb0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Deg315SegundoOrdenActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

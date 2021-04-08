@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="PanelOriginalImagen" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="PanelOriginalImagen" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="PanelOriginalImagen">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="LoadImage" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="ApplyMatriz" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="CleanMatriz" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="pos_4" alignment="1" max="32767" attributes="0"/>
+                              <Component id="pos_7" alignment="1" max="32767" attributes="0"/>
+                              <Component id="pos_1" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                                  <Component id="pos_5" min="-2" pref="73" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="pos_2" min="-2" pref="74" max="-2" attributes="0"/>
+                                      <Component id="pos_8" alignment="1" min="-2" pref="74" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="pos_9" min="-2" pref="70" max="-2" attributes="0"/>
+                                      <Component id="pos_3" min="-2" pref="70" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="pos_16" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="pos_10" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="pos_11" alignment="0" min="-2" pref="74" max="-2" attributes="0"/>
+                                      <Component id="pos_17" alignment="1" min="-2" pref="74" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="pos_6" min="-2" pref="70" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="pos_13" min="-2" pref="70" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="pos_14" min="-2" pref="73" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="pos_18" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                              <Component id="pos_12" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                              <Component id="pos_15" min="-2" pref="73" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="ImagenOriginalLiezno" min="-2" pref="429" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="ImagenTransformedLienzo" min="-2" pref="464" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="104" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="ImagenTransformedLienzo" max="32767" attributes="0"/>
+                      <Component id="ImagenOriginalLiezno" pref="297" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="LoadImage" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="pos_1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="pos_4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="pos_7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_9" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="CleanMatriz" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="ApplyMatriz" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="pos_10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_11" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="pos_14" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="pos_15" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pos_13" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="pos_16" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_17" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="pos_18" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="LoadImage">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cargar Imagen"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LoadImageActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="ApplyMatriz">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Aplicar Matriz"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ApplyMatrizActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="CleanMatriz">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Limpiar Matriz"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CleanMatrizActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="ImagenOriginalLiezno">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_1">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_6">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_9">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_10">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_11">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_12">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_13">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_14">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_15">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_16">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_17">
+        </Component>
+        <Component class="javax.swing.JTextField" name="pos_18">
+        </Component>
+        <Component class="javax.swing.JLabel" name="ImagenTransformedLienzo">
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
